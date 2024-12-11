@@ -11,5 +11,5 @@ The purpose of this project is to show the expertise in Ruby on Rails and React.
 
 
 Node version 22.12.0
-Ruby version 3.3.0
+Ruby version 3.3.6
 Rails version 7.2
