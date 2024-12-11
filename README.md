@@ -8,3 +8,8 @@ We have divided the project in phases:
 
 
 The purpose of this project is to show the expertise in Ruby on Rails and React.js. The project is designed to be scalable and easy to maintain, and it can be used as a template for future projects.
+
+
+Node version 22.12.0
+Ruby version 3.3.0
+Rails version 7.2
